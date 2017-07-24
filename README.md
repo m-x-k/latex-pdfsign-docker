@@ -17,6 +17,7 @@ A file example.pdf should be created which when viewed in adobe acrobat contains
 
 ## Additional links
 
-* [https://www.ctan.org/pkg/conv-xkv](conv-xkv extension CTAN)
-* [https://www.ctan.org/pkg/acrotex](acrotex extension CTAN)
+* https://www.ctan.org/pkg/conv-xkv - conv-xkv extension CTAN
+
+* https://www.ctan.org/pkg/acrotex - acrotex extension CTAN
 
